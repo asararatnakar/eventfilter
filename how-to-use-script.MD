@@ -28,7 +28,7 @@ ex:
 ```
 
 
-**A sample, execution and its output**
+**A sample execution and its output**
 
 ```
 ./testevents.sh -t -m -f -s 3
